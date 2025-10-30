@@ -1,8 +1,8 @@
 ## Hello, I'm Helen 👋
 
 ### 📖 About Me
-- 🚀 **Product Builder**: Designing and Building end-to-end products that solve real user problems <br>
-- 💻 **Full-Stack Engineer**: Leveraging technical skills and vibe coding to build products from frontend interfaces to backend systems.<br>
+- 🚀 **Product Builder**: Designing and building end-to-end products that solve real user problems<br>
+- 💻 **Full-Stack Engineer**: Leveraging technical skills and vibe coding to create digital products<br> 
 - 💹 **Investment Experience**: Built a foundation in analyzing business models and evaluating product market opportunities<br>
 - 🌍 **International**: Lived in 3 countries, traveled to 15+, and speaks 5 languages (English, French, Mandarin, Japanese, Korean)<br>
 - 🎓 **Education**: University of British Columbia — BCom, International Business & Marketing<br>
