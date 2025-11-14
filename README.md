@@ -5,7 +5,7 @@
 - 💹 **Investment Experience**: I combine a foundation in investment analysis with market strategy to guide go-to-market decisions.<br>
 - 🌍 **International**: Lived in 3 countries, traveled to 15+, and speaks 5 languages (English, French, Mandarin, Japanese, Korean)<br>
 - 🎓 **Education**: University of British Columbia — BCom, International Business & Marketing<br>
-- 💼 **Portfolio**: Coming soon<br>
+- 💼 **Portfolio**: https://helenhuang.framer.website/<br>
 
 ### 🧠 My Tech Stack
 
