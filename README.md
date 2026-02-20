@@ -1,10 +1,29 @@
-## Hello, I'm Helen 👋
+## Hello, I’m Helen 👋
+## 📖 About Me
 
-### 📖 About Me
-- 🚀 **Business Operations Analyst**: Focused on optimizing systems for growth through data-driven insights and AI-powered automation.<br>
-- 🌍 **International**: Lived in 3 countries, traveled to 15+, and speaks 5 languages (English, French, Mandarin, Japanese, Korean)<br>
-- 🎓 **Education**: University of British Columbia — BCom, International Business & Marketing<br>
-- 💼 **Portfolio**: https://helenhuang.framer.website/<br>
+🚀 Product & Strategy Lead for Early-Stage Ventures
+I work at the intersection of product, operations, and emerging technology — translating ambiguous business problems into structured roadmaps, MVPs, and scalable systems.
+
+I’ve supported multiple early-stage startups across AI automation, digital assets, and workflow optimization — acting as a bridge between founders, engineers, and business teams to move ideas from concept to execution.
+
+My focus:
+
+Defining product vision and MVP scope
+
+Prioritizing features based on impact and feasibility
+
+Designing end-to-end workflows
+
+Establishing metrics that drive iteration
+
+🌍 Global Perspective
+Lived in 3 countries, traveled to 15+, and speak 5 languages (English, French, Mandarin, Japanese, Korean). I bring cross-cultural context into user research and stakeholder alignment.
+
+🎓 Education
+University of British Columbia — BCom, International Business & Marketing
+
+💼 Portfolio
+https://helenhuang.framer.website/
 
 ### 🧠 My Tech Stack
 
