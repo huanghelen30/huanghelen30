@@ -1,21 +1,6 @@
 ## Hello, I’m Helen 👋
 ## 📖 About Me
 
-🚀 Product & Strategy Lead for Early-Stage Ventures
-I work at the intersection of product, operations, and emerging technology — translating ambiguous business problems into structured roadmaps, MVPs, and scalable systems.
-
-I’ve supported multiple early-stage startups across AI automation, digital assets, and workflow optimization — acting as a bridge between founders, engineers, and business teams to move ideas from concept to execution.
-
-My focus:
-
-Defining product vision and MVP scope
-
-Prioritizing features based on impact and feasibility
-
-Designing end-to-end workflows
-
-Establishing metrics that drive iteration
-
 🌍 Global Perspective
 Lived in 3 countries, traveled to 15+, and speak 5 languages (English, French, Mandarin, Japanese, Korean). I bring cross-cultural context into user research and stakeholder alignment.
 
